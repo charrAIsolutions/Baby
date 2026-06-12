@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "m0k3r2a9x1",
+    "type": "diaper",
+    "diaperType": "dirty",
+    "notes": "small amount of poop",
+    "time": "2026-06-12T21:50:00.000Z"
+  },
+  {
+    "id": "m0k3r1b8w2",
+    "type": "feeding",
+    "feedingType": "breast",
+    "amount": null,
+    "amountUnit": "oz",
+    "duration": "15",
+    "notes": "6/10",
+    "time": "2026-06-12T21:30:00.000Z"
+  },
+  {
+    "id": "m0k2q9c7v3",
+    "type": "feeding",
+    "feedingType": "breast",
+    "amount": null,
+    "amountUnit": "oz",
+    "duration": "25",
+    "notes": "8/10",
+    "time": "2026-06-11T21:15:00.000Z"
+  }
+]
